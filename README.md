@@ -1,2 +1,0 @@
-# riku-HP
-riku HP
